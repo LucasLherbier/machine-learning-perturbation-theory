@@ -15,4 +15,4 @@ I recommend reading the report before reading the notebooks, as most explanation
   * the `MLPT_MachineLearning.ipynb`: it applies machine learning algorithms to the datasets.
 
 
-<small> * because of the size file, the **MLPOS-2.19000.zip** does not contain all the 19 000 configurations but only part. </small>
+<small> * because of the size file, the **MLPOS-2.19000.zip** does not contain all the 19 000 configurations but only part </small>
