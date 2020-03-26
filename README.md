@@ -7,9 +7,9 @@ In science materials, solving quantum equations comes at a very high cost. The f
 ## Description of this repository
 
 I recommend reading the report before reading the notebooks, as most explanations are not duplicated in the notebooks.
-* **report**: it explains the project 
-* **data**: it contains the pritimive cell data studied here, the target values for our models and a jupyter notebook file aiming to visualize the primitive cell 
-* **models**: it contains the machine learning models. The Jupyter notebooks are divided in three parts :
+* **report**: explanation of the entire project 
+* **data**: access to the project resources such as the pritimive cell data studied here
+* **models**: presentation of the machine learning models. The Jupyter notebooks are divided in three parts :
   * the `MLPT_position.ipynb`: it creates the dataset whose features are the relative positions to an atom of reference.
   * the `MLPT_Distance.ipynb`: it creates the dataset whose features are the distances of the neighbors from an atom of reference. For each configuration, all the atoms in the primitive cell are atoms of reference.
   * the `MLPT_MachineLearning.ipynb`: it applies machine learning algorithms to the datasets.
