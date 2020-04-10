@@ -1,6 +1,7 @@
 # Machine Learning Perturbation Theory
 
-This repository completes the report of my final-year project at [Ecole des Mines de Nancy](https://mines-nancy.univ-lorraine.fr/formation/ingenieur-civil-mines-icm/).
+This repository completes the report of my final-year project at [Ecole des Mines de Nancy](https://mines-nancy.univ-lorraine.fr/formation/ingenieur-civil-mines-icm/).  
+GPA obtained: 4.0/4.0
 
 In science materials, solving quantum equations comes at a very high cost. The final goal of this project is to use and test three machine learning algorithms instead of solving Schrodinger equations in order to considerably reduce calculation time.
 
