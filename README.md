@@ -8,7 +8,7 @@ In science materials, solving quantum equations comes at a very high cost. The f
 ## Description of this repository
 
 I recommend reading the report before reading the notebooks, as most explanations are not duplicated in the notebooks.
-* <span style="background:##FFFF6B"> **`MLPT_Report.pdf`**: explanation of the entire project </span>  
+* <mark> **`MLPT_Report.pdf`**: explanation of the entire project </mark>  
 * **data**: access to the project resources such as the pritimive cell data <a href="#section1">*</a> studied here
 * **models**: presentation of the machine learning models. The Jupyter notebooks are divided in three parts :
   * the `MLPT_position.ipynb`: it creates the dataset whose features are the relative positions to an atom of reference.
